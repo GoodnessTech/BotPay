@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "npm --prefix \"Botpay Frontend\" run build",
+  "outputDirectory": "Botpay Frontend/dist",
+  "installCommand": "npm --prefix \"Botpay Frontend\" install",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

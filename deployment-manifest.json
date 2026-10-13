@@ -1,0 +1,21 @@
+{
+  "contractName": "BotPayEscrow",
+  "network": "BOT Chain Mainnet",
+  "chainId": 677,
+  "rpc": "https://rpc.botchain.ai",
+  "explorer": "https://scan.botchain.ai",
+  "contractAddress": "0x2d25345ff92C85E00E83c8ce1798f0CD66f6DCCA",
+  "transactionHash": "0xf9a7f180e3b9d7d42df17746d50f6a47384394ab25ff9e10569f62bb02fbadbd",
+  "blockNumber": 26552707,
+  "deployer": "0x34a19B30d9edD62424802d323E81c25599A9f02e",
+  "gasUsed": "915714",
+  "effectiveGasPrice": "20.0 gwei",
+  "timestamp": "2026-10-13T13:42:28.909Z",
+  "compiler": {
+    "version": "0.8.24",
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    }
+  }
+}
